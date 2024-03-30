@@ -1,6 +1,6 @@
 package dao;
 
-import config.Client;
+import models.Client;
 import hibernate.Hibernate;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

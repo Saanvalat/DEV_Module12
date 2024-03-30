@@ -1,6 +1,6 @@
 package dao;
 
-import config.Planet;
+import models.Planet;
 import hibernate.Hibernate;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

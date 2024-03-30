@@ -3,3 +3,37 @@
 build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
 S
 #src/main/java/org/example/Main.java,0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+N
+src/main/java/db/Database.java,e/d/edabd1fbe28836628718046d3da480920d6a1ba5
+N
+src/main/java/db/DbConfig.java,e/7/e79dbb10703922311e285fc152dcada658a3f8af
+P
+ src/main/java/Config/Client.java,0/7/077d5a65b7df4149ff64e9d41ca4062c228dd351
+P
+ src/main/java/Config/Planet.java,a/d/ad0b67f02a7c4dc99c9ed2acb3f16b0926eabf3e
+`
+0src/main/java/servicecrud/PlanetCrudService.java,e/a/ea5a0686b3feb37c68ecfae63ce963188886b25a
+`
+0src/main/java/servicecrud/ClientCrudService.java,7/1/7136c55c5c30e164bf2973ae0e0ca65925923b0a
+P
+ src/main/java/config/Planet.java,c/6/c6e92e857a0eabb061197ab125ad84915c004268
+P
+ src/main/java/config/Client.java,2/3/235ad5ff08266ec194bfed4e20579678bc4ac6a5
+P
+ src/main/java/dao/PlanetDao.java,6/8/68fbea90ed1421ba78f8751e147d05013184e294
+P
+ src/main/java/dao/ClientDao.java,e/e/eed7cae5d7f39dd1a86e98f08a8f665814728f86
+V
+&src/main/java/hibernate/Hibernate.java,f/5/f534c8238b21f9ee14d4511ecfca030c82a46303
+P
+ src/main/java/test/CrudTest.java,a/6/a6d568ea6ea9a1a6ba80c5ebcae598a0d525b056
+C
+settings.gradle.kts,7/4/749edfcc96398253e5b3416184e95c46621da850
+P
+ src/main/java/models/Client.java,5/8/58e961311e98a21e91d1b389fa170a341dda32db
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+P
+ src/main/java/models/Planet.java,d/b/db5713bd9f1d7f18d8095c5a58ad26aadd65ce80
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e

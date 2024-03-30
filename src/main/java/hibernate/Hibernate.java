@@ -1,7 +1,7 @@
 package hibernate;
 
-import config.Client;
-import config.Planet;
+import models.Client;
+import models.Planet;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 

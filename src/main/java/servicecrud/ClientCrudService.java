@@ -1,6 +1,6 @@
 package servicecrud;
 
-import config.Client;
+import models.Client;
 import dao.ClientDao;
 
 public class ClientCrudService {

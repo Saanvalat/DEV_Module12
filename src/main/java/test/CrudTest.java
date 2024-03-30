@@ -1,8 +1,7 @@
 package test;
 
-import config.Client;
-import config.Planet;
-import dao.ClientDao;
+import models.Client;
+import models.Planet;
 import servicecrud.ClientCrudService;
 import servicecrud.PlanetCrudService;
 

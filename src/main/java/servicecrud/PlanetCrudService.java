@@ -1,6 +1,6 @@
 package servicecrud;
 
-import config.Planet;
+import models.Planet;
 import dao.PlanetDao;
 
 public class PlanetCrudService {
