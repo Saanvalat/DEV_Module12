@@ -1,6 +1,7 @@
-package CRUDService;
+package servicecrud;
 
-import Config.Client;
+import config.Client;
+import dao.ClientDao;
 
 public class ClientCrudService {
     private final ClientDao clientDao = new ClientDao();

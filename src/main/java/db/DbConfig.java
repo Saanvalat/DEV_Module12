@@ -1,4 +1,4 @@
-package org.example;
+package db;
 
 public class DbConfig {
     private static final String DB_URL = "jdbc:h2:mem:test;DB_CLOSE_DELAY=-1";

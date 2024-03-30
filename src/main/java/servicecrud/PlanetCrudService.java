@@ -1,6 +1,7 @@
-package CRUDService;
+package servicecrud;
 
-import Config.Planet;
+import config.Planet;
+import dao.PlanetDao;
 
 public class PlanetCrudService {
     private PlanetDao planetDao = new PlanetDao();
